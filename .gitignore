@@ -1,0 +1,11 @@
+#ignore installed nodemodules
+node_modules
+
+# ignore vscode config folder
+.vscode
+
+# enviroment variable
+.env
+
+# build folder
+dist
